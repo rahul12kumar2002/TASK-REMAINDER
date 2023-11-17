@@ -22,7 +22,7 @@ This Task Reminder application is built on the MERN (MongoDB, Express, React, No
 
 ### Installation
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/sarthak107/Task-Reminder.git`
 2. Install dependencies: `npm install`
 3. Set up environment variables:
    - Create a `.env` file in the root directory
@@ -30,7 +30,7 @@ This Task Reminder application is built on the MERN (MongoDB, Express, React, No
 
 ### Usage
 
-1. Run the server: `npm start`
+1. Run the server: `npm run dev`
 2. Access the application in your browser: `http://localhost:3000`
 
 
@@ -51,8 +51,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 # Screenshots :
-![image](./client/src/img/Screenshot%202022-06-06%20173603.jpg)
-![image](./client/src/img/Screenshot%202023-11-17%20164151.png)
-![image](./client/src/img/Screenshot%202023-11-17%20163518.png)
-![image](./client/src/img/Screenshot%202023-11-17%20163519.png)
-![image](./client/src/img/Screenshot%202023-11-17%20163723.png)
+
+![image](https://github.com/sarthak107/Task-Reminder/assets/77851794/c896a6e7-c656-43f5-a033-f4081371f50c)
+![image](https://github.com/sarthak107/Task-Reminder/assets/77851794/6f34bb31-b658-4055-8454-fc7da9187a63)
+![image](https://github.com/sarthak107/Task-Reminder/assets/77851794/a8f10947-d416-48c7-857a-7383ebbe0ca5)
+![image](https://github.com/sarthak107/Task-Reminder/assets/77851794/a00e0dc5-483c-4006-8e20-066e4610f506)
+![image](https://github.com/sarthak107/Task-Reminder/assets/77851794/c2cfc10e-370b-4fd7-a4c7-eefeb8553ca0)
